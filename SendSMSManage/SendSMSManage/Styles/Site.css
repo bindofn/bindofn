@@ -1,0 +1,74 @@
+﻿/* DEFAULTS
+----------------------------------------------------------*/
+
+body   
+{font-size: 12px;height: 100%; border: none; margin: 0px; padding: 0px; }
+
+a:link, a:visited{text-decoration: none;color:#033D61;}
+a:hover{ text-decoration: none;}
+ul{list-style:none;}
+
+p{margin-bottom: 10px;line-height: 1.6em;}
+div{margin:0; padding:0;}
+img{border:0; border-style:none;}
+/* HEADINGS   
+----------------------------------------------------------*/
+h1, h2, h3, h4, h5, h6{font-size: 1.5em;color: #666666; font-variant: small-caps;text-transform: none;font-weight: 200;margin-bottom: 0px;}
+
+/* TAB MENU   
+----------------------------------------------------------*/
+div.hideSkiplink{background-color:#3a4f63; width:100%;}
+div.menu{ padding: 4px 0px 4px 8px;}
+div.menu ul{list-style: none;margin: 0px; padding: 0px;width: auto;}
+div.menu ul li a, div.menu ul li a:visited{background-color: #465c71;border: 1px #4e667d solid;color: #dde4ec;display: block;line-height: 1.35em;padding: 4px 20px;text-decoration: none;white-space: nowrap;}
+div.menu ul li a:hover{background-color: #bfcbd6;color: #465c71;text-decoration: none;}
+div.menu ul li a:active{background-color: #465c71;color: #cfdbe6;text-decoration: none;}
+/* top  
+----------------------------------------------------------*/
+.table{width: 100%; border-collapse: collapse;text-align: center; border-left: 1px solid #B5D6E6; border-top: 1px solid #B5D6E6;}
+.table tr th{background-image:url(/images/bg1.gif); height:22px;background-color:#ffffff; color:#333; border-bottom: 1px solid #B5D6E6; border-right: 1px solid #B5D6E6;}
+.table tr td{height:20px;  border-bottom: 1px solid #B5D6E6; border-right: 1px solid #B5D6E6;}
+.STYLE5
+        {
+            font-size: 12px;
+            font-weight: bold;
+        } 
+        .STYLE4
+        {
+            color: #03515d;
+            font-size: 12px;
+        }
+.menu_title  td{font-weight: bold; left: 3px; color: #ffffff;}
+.menu_title2 td{font-weight: bold; left: 3px; color: #FFCC00; position: relative; top: 2px;}
+.menu_span{border:1px solid #7bc4d3;font-weight: bold; left: 2px; position: relative; top:1px;}
+ .style
+        {
+            width: 100%;
+            height: 100%;
+        }
+        .time
+        {
+            font-size: 12px;
+            color: #FFFFFF;
+        }
+        .STYLE2
+        {
+            font-size: 12px;
+            color:#038619;
+        }
+        .STYLE3
+        {
+            color: #033d61;
+            font-size: 12px;
+        }
+        .navPoint
+        {
+            color: white;
+            cursor:pointer;
+            font-family: Webdings;
+            font-size: 9pt;
+        } 
+        .f1{background-color: #D2E9F8;
+text-align: center;
+white-space: nowrap;
+color: #0B729D;}
